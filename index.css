@@ -1,0 +1,20 @@
+.box
+{
+    padding: 60px 10px;
+    margin: 10px 10px;
+}
+
+.small-box{
+    background-color: black;
+    color:white;
+    text-align: center;
+    padding: 10px;
+}
+.content
+{
+    margin:20px 0px;
+}
+.col-md-4
+{
+    padding: 15px  5px;
+}
